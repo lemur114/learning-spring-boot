@@ -34,8 +34,8 @@ Make sure you have installed:
 
 ### 2️⃣ Clone the Repository
 ```bash
-git clone https://github.com/lemur114/learnig-spring-boot.git
-cd learnig-spring-boot/demo
+git clone https://github.com/lemur114/learning-spring-boot.git
+cd learning-spring-boot/demo
 ```
 
 ### 3️⃣ Run PostgreSQL in Docker
