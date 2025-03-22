@@ -34,8 +34,8 @@ Make sure you have installed:
 
 ### 2️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo/demo
+git clone https://github.com/lemur114/learnig-spring-boot.git
+cd learnig-spring-boot/demo
 ```
 
 ### 3️⃣ Run PostgreSQL in Docker
@@ -93,5 +93,3 @@ mvn spring-boot:run
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
 ```
-
-👉 **Replace `your-username/your-repo.git`** with the actual GitHub repository URL before using. 🚀
