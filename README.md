@@ -77,9 +77,9 @@ mvn spring-boot:run
 ### 7️⃣ Example JSON for POST request
 ```json
 {
-  "name": "John Doe",
-  "email": "john.doe@example.com",
-  "birthday": "2000-05-15"
+  "name": "Eliot Alderson",
+  "email": "Mr.Robot@example.com",
+  "birthday": "1986-09-17"
 }
 ```
 
@@ -92,4 +92,3 @@ mvn spring-boot:run
 
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
-```
