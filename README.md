@@ -78,7 +78,7 @@ mvn spring-boot:run
 ```json
 {
   "name": "Eliot Alderson",
-  "email": "Mr.Robot@example.com",
+  "email": "mr.eliot@example.com",
   "birthday": "1986-09-17"
 }
 ```
